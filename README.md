@@ -2,6 +2,5 @@
 
 # Crimpdeq Board
 
-This repository contains an upgraded version of the [`crimpdeq-hardware` repository](https://github.com/crimpdeq/crimpdeq-hardware). It is still a work in progress.
+This repository contains an upgraded version of the [`crimpdeq-pcb` repository](https://github.com/crimpdeq/crimpdeq-pcb). It has not been tested, and further developemnt will hapen in the `crimpdeq-pcb` repository.
 
-The PCB has not been manufactured yet, therefore, it has not been tested.
